@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57312454-899a-4858-bca0-542cc4dbbd06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/ItemsSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ItemsSeeder.php" afterDir="false" />
-    </list>
+    <list default="true" id="57312454-899a-4858-bca0-542cc4dbbd06" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/seeders/ItemsSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="53" column="63" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+            <state relative-caret-position="400">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding>
                 <element signature="e#36#54#0#PHP" expanded="true" />
               </folding>
@@ -123,9 +120,11 @@
       <find>$type</find>
       <find>products</find>
       <find>$header</find>
+      <find>Carbon ::now ()</find>
     </findStrings>
     <replaceStrings>
       <replace>$items</replace>
+      <replace>$now</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -375,18 +374,18 @@
       <option name="presentableId" value="Default" />
       <updated>1619281651170</updated>
       <workItem from="1619281652681" duration="39566000" />
-      <workItem from="1619365128605" duration="878000" />
+      <workItem from="1619365128605" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40444000" />
+    <option name="totallyTimeSpent" value="40705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -763,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/seeders/ItemsSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="53" column="63" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+        <state relative-caret-position="400">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <folding>
             <element signature="e#36#54#0#PHP" expanded="true" />
           </folding>
